@@ -1,8 +1,6 @@
 # **Hi, i'm Josymarss**
 
-*bantu* creator.
-
-I code to help my friends and families in the ghetto.
+*bantu* creator. 
 
 ## Code
 
