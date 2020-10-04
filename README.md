@@ -2,12 +2,12 @@
 
 *bantu* creator. 
 
-## Code
+## Code 👨🏿‍💻
     [Web, Mobile, UI/UX]
     [ReactJs, NextJs, React Native]
     [Javascript, Python, Typescript]
 
-## Hobby
+## Hobby ✍🏿 
     [Write]
 
 ## Social
