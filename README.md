@@ -1,4 +1,4 @@
-# **With 🖤 Josymarss**
+# **With 🖤 Josymarss **
 
 *bantu* creator. 
 
@@ -9,6 +9,12 @@
 
 ## Hobby ✍🏿 
     [Write]
+
+## Favorite code.
+```py
+while not work.finish(): 
+    return work.pullRequest(origin)
+```
 
 ## Social
 [![Twitter Badge](https://img.shields.io/badge/-@josymarss-black?style=flat-square&labelColor=white&logo=twitter&logoColor=black&link=https://twitter.com/josymarss)](https://twitter.com/josymarss) 
