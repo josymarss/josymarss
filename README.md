@@ -1,6 +1,6 @@
 # With 🖤 Josymarss 
 
-*bantu.io* creator. 
+*bantu dev* creator. 
 
 ### Code 👨🏿‍💻
     [Web, Mobile, UI/UX]
