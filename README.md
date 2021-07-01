@@ -1,6 +1,6 @@
 # With 🖤, Josymarss.
 
-### I am a developer and writer in my spare time, I love web technology, mobile and 3D animation. focused on taking my code to the next level!
+I'm a developer and writer in my spare time, I love web technology, mobile and 3D animation. focused on taking my code to the next level!
 
 ### Languages 💻
     [Javascript, Typescript, Python]
