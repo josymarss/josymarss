@@ -9,7 +9,7 @@ I'm a developer and writer in my spare time, I love web technology, mobile and 3
     [Write]
 
 ### Tools
-    [VScode, Figma, React, React Native, MongoDB, SQL/SQLite, ...Others]
+    [VScode, Figma, React, Nextjs, React Native, MongoDB, SQL/SQLite, ...Others]
 
 ### Social
 
