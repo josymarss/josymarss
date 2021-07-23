@@ -5,11 +5,11 @@ I'm a developer and writer in my spare time, I love web technology, mobile and 3
 ### Languages 💻
     [Javascript, Typescript, Python]
 
-### Hobby ✍🏿 
-    [Write]
-
 ### Tools
     [VScode, Figma, React, Nextjs, React Native, MongoDB, SQL/SQLite, ...Others]
+
+### Hobby ✍🏿 
+    [Write]
 
 ### Social
 
