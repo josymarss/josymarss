@@ -1,5 +1,7 @@
 # With 🖤, Josymarss.
 
+<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 I'm a developer, I love web technology, mobile and 3D animation. focused on taking my code to the next level!
 
 ### Languages 💻
