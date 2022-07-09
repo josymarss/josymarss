@@ -6,7 +6,10 @@
     [Javascript, Typescript, Rust, Python]
 
 ### Tools
-    [VScode, Figma, React, Nextjs, React Native, MongoDB, SQL/SQLite, ...Others]
+    [VScode, Figma/XD, React, Nextjs, React Native/Expo, MongoDB/SQL/MySQL, ...Others]
+
+### Description 
+    [Programmer/designer UI/UX and Thinker. Focused on creating increasingly useful and creative applications.]
 
 ### Hobby ✍🏿 
     [Write]
