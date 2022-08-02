@@ -1,20 +1,15 @@
-# With 🖤, Josymarss.
+<h2 align="center">With 🖤, Josymarss.</h2>
+<h4 align="center"><i>Software engineer.</i></h4>
+</br>
 
-<img src="pc.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
+- Fullstack and Mobile dev.
+- Loves programming languages and focused on learning more about compilers.
 
-### Languages 💻
+#### Languages
     [Javascript, Typescript, Rust, Python]
 
-### Tools
-    [VScode, Figma/XD, React, Nextjs, React Native/Expo, MongoDB/SQL/MySQL, ...Others]
-
-### Description 
-    [Programmer/designer UI/UX and Thinker. Focused on creating increasingly useful and creative applications.]
-
-### Hobby ✍🏿 
-    [Write]
-
-### Social
+#### Tools
+    [VScode, Figma/Adobe XD, React, Nextjs, React Native/Expo, MongoDB/SQL/MySQL, ...Others]
 
 [![Twitter Badge](https://img.shields.io/badge/-@josymarss-black?style=flat-square&labelColor=white&logo=twitter&logoColor=black&link=https://twitter.com/josymarss)](https://twitter.com/josymarss) 
 [![Instagram Badge](https://img.shields.io/badge/-@bantucodedev-black?style=flat-square&labelColor=white&logo=instagram&logoColor=black&link=https://www.instagram.com/bantu_dev/)](https://www.instagram.com/bantu_dev/) 
