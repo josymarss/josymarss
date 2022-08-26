@@ -8,7 +8,7 @@
 #### About
 
     Fullstack and Mobile dev.
-    Loves programming languages and focused on learning more about compilers.
+    Loves programming languages and focused on learning more about compilers and smart algorithms.
 
 #### Languages
     [Javascript, Typescript, Rust, Python]
