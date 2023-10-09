@@ -8,11 +8,11 @@
 #### About
 
     Experienced Fullstack and Mobile Developer. 
-    Loves programming languages and focused on learning more about compilers and algorithms.
+    Loves programming languages and focused on learning more about compilers, algorithms and AI.
 
 #### Languages
-    [Javascript, Typescript, Rust, Python]
+    [Typescript, Rust]
 
 #### Tools
-    [VScode, Figma/Adobe XD, Reactjs, Nextjs, React Native/Expo, MongoDB/MySQL, ...Others]
+    [VScode, Figma, ...Others]
 
