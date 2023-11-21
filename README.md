@@ -13,6 +13,3 @@
 #### Languages
     [Typescript, Rust]
 
-#### Tools
-    [VScode, Figma, ...Others]
-
