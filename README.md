@@ -11,5 +11,7 @@
     Loves programming languages and focused on learning more about compilers, algorithms, dynamic programming and AI.
 
 #### Languages
-    [Typescript, Rust]
+    [Typescript, Python]
 
+#### Interested in
+    [Rust]
