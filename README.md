@@ -8,7 +8,7 @@
 #### About
 
     Experienced Fullstack and Mobile Developer. 
-    Loves programming languages and focused on learning more about compilers, algorithms and AI.
+    Loves programming languages and focused on learning more about compilers, algorithms, dynamic programming and AI.
 
 #### Languages
     [Typescript, Rust]
