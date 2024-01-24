@@ -5,13 +5,16 @@
  [![Twitter Badge](https://img.shields.io/badge/-@josymarss-black?style=flat-square&labelColor=white&logo=twitter&logoColor=black&link=https://twitter.com/josymarss)](https://twitter.com/josymarss)
   [![Instagram Badge](https://img.shields.io/badge/-@bantucodedev-black?style=flat-square&labelColor=white&logo=instagram&logoColor=black&link=https://www.instagram.com/bantu_dev/)](https://www.instagram.com/bantu_dev/)
    [![Linkedin Badge](https://img.shields.io/badge/-@josymarss-black?style=flat-square&labelColor=white&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/josemar-silva-550b38124/)](https://www.linkedin.com/in/josemar-silva-550b38124/) 
-#### About
 
-    Experienced Fullstack and Mobile Developer. 
-    Loves programming languages and focused on learning more about compilers, algorithms, dynamic programming and AI.
+#### About
+Experienced Fullstack and React Native Developer
+
+Loves programming languages and focused on learning more about compilers, dynamic programming and AI.
 
 #### Languages
     [Typescript, Python]
 
 #### Interested in
-    [Rust]
+    [Rust, python]
+
+    
