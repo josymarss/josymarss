@@ -9,12 +9,12 @@
 #### About
 Experienced Fullstack and React Native Developer
 
-Loves programming languages and focused on learning more about compilers, dynamic programming and AI.
+Loves programming languages and focused on learning more about compilers, and AI.
 
 #### Languages
     [Typescript, Python]
 
 #### Interested in
-    [Rust, python]
+    [Rust]
 
     
