@@ -7,9 +7,9 @@
    [![Linkedin Badge](https://img.shields.io/badge/-@josymarss-black?style=flat-square&labelColor=white&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/josemar-silva-550b38124/)](https://www.linkedin.com/in/josemar-silva-550b38124/) 
 
 #### About
-Experienced Fullstack and React Native Developer
+Experienced Fullstack and React Native Developer.
 
-Loves programming languages and focused on learning more about compilers, and AI.
+Compiler enthusiast, Loves programming languages and Focused on learning more about compilers.
 
 #### Languages
     [Typescript, Python]
