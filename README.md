@@ -6,9 +6,9 @@
    `[Experienced Fullstack, React Native Developer]`
 
 #### Languages
-    `[Typescript, Python]`
+   `[Typescript, Python]`
 
 #### Currently studying
-    `[Rust, Swift, Compilers]`
+   `[Rust, Swift, Compilers]`
 
     
