@@ -6,9 +6,9 @@
    `[iOS Developer, React Native Developer]`
 
 #### Languages
-   `[Typescript,Swift]`
+   `[Typescript, Swift, Rust]`
 
 #### Currently studying
-   `[SwiftUI, Compilers, Rust]`
+   `[SwiftUI, Compilers]`
 
     
