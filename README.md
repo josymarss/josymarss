@@ -9,6 +9,6 @@
    `[Typescript, Swift, Rust]`
 
 #### Currently studying
-   `[SwiftUI, Compilers]`
+   `[Algorithms, Compilers]`
 
     
