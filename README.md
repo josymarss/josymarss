@@ -10,6 +10,6 @@ Experienced mobile iOS developer using SwiftUI and MVVM architecture. Loves prog
    `[Swift, Typescript, Rust]`
 
 #### Currently studying
-   `[Rust,  Compiler Design, Algorithms]`
+   `[Rust, Compiler Design, Algorithms]`
 
     
