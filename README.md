@@ -3,12 +3,13 @@
    [![Linkedin Badge](https://img.shields.io/badge/-@josymarss-black?style=flat-square&labelColor=white&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/josemar-silva-550b38124/)](https://www.linkedin.com/in/josemar-silva-550b38124/) 
 
 #### About
-   `[iOS Developer, React Native Developer]`
+
+Experienced mobile iOS developer using SwiftUI and MVVM architecture. Loves programming languages and focused on learning more about compilers, memory safety and efficient algorithms.
 
 #### Languages
-   `[Typescript, Swift, Rust]`
+   `[Swift, Typescript, Rust]`
 
 #### Currently studying
-   `[Algorithms, Compilers]`
+   `[Rust,  Compiler Design, Algorithms]`
 
     
