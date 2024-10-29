@@ -5,12 +5,13 @@
 #### About
 
 Experienced mobile developer with a strong focus on building iOS applications using Swift, SwiftUI, UIKit and MVVM architecture.
+
 Passionate about compiler design, constantly reading about lexer, parsing and AST.
 
 #### Languages
-   `[Swift, Typescript, Rust]`
+   `[Swift, Typescript]`
 
 #### Currently studying
-   `[Rust, Compiler Design, Algorithms]`
+   `[Swift, Compiler Design, Algorithms, Rust]`
 
     
