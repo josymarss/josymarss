@@ -4,7 +4,8 @@
 
 #### About
 
-Experienced mobile iOS developer using SwiftUI and MVVM architecture. Loves programming languages and focused on learning more about compilers, memory safety and efficient algorithms.
+Experienced mobile developer with a strong focus on building iOS applications using Swift, SwiftUI, UIKit and MVVM architecture.
+Passionate about compiler design, constantly reading about lexer, parsing and AST.
 
 #### Languages
    `[Swift, Typescript, Rust]`
