@@ -9,7 +9,7 @@ Experienced mobile developer with a strong focus on building iOS applications us
 Passionate about compiler design, constantly reading about lexer, parsing and AST.
 
 #### Languages
-   `[Swift, Typescript]`
+   `[Swift, Rust]`
 
 #### Currently studying
    `[Swift, Compiler Design, Algorithms, Rust]`
