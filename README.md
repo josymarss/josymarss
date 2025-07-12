@@ -12,6 +12,6 @@ Passionate about compiler design, constantly reading about lexer, parsing and AS
    `[Swift, Rust]`
 
 #### Currently studying
-   `[Swift, Compiler Design, Algorithms, Rust]`
+   `[Swift, Compiler Design, Algorithms, Rust, Go]`
 
     
